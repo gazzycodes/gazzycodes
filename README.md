@@ -1,17 +1,26 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=200&section=header&text=Gazzy&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=36&desc=Polymath%20%C2%B7%20Builder%20%C2%B7%20Hacker%20%C2%B7%20Musician&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFA3&height=200&section=header&text=Gazzy&fontColor=0d1117&fontSize=72&animation=fadeIn&fontAlignY=36&desc=Polymath%20%C2%B7%20Builder%20%C2%B7%20Hacker%20%C2%B7%20Musician&descSize=18&descAlignY=58" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Head+of+Technology+%40+iKonic+Global;Building+AI%2C+fintech+%26+health+systems;Biohacker+lab+%C2%B7+embedded+%C2%B7+microcontrollers;Triathlete-in-training+%C2%B7+execution+over+noise)](https://github.com/gazzycodes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Head+of+Technology+%40+iKonic+Global;Building+AI%2C+fintech+%26+health+systems;Biohacker+lab+%C2%B7+embedded+%C2%B7+microcontrollers;345+WPM+burst+%C2%B7+execution+over+noise)](https://github.com/gazzycodes)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gazzycodes&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/gazzycodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=gazzycodes&label=Profile%20views&color=00b894&style=flat-square)](https://github.com/gazzycodes)
 &nbsp;
-![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20Health%20%C2%B7%20Fintech-7F52FF?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20Health%20%C2%B7%20Fintech-00C853?style=flat-square)
 &nbsp;
-![Status](https://img.shields.io/badge/Always-Shipping-38BDF8?style=flat-square)
+![Status](https://img.shields.io/badge/Always-Shipping-39FF14?style=flat-square)
 
 </div>
+
+```bash
+$ whoami
+gazzy → polymath · builder · hacker · musician
+$ current_stack
+AI · fintech · health-systems · embedded · music-tech
+$ status
+shipping — execution over noise
+```
 
 ---
 
@@ -23,6 +32,26 @@ I'm a generalist who goes deep. My work moves between **agentic AI**, **fintech*
 - **Focus** — AI-first software, accounting & finance automation, biohacking & physiology instrumentation.
 - **Hardware** — Microcontrollers, sensors, and BLE devices for my own biohacker lab.
 - **Off-screen** — Endurance training toward triathlon, building things, and tinkering with circuits.
+
+---
+
+## ⌨️ Words per minute — yes, I'm fast
+
+<div align="center">
+
+[![MonkeyType](https://img.shields.io/badge/MonkeyType-ghazanfaruruj-39FF14?style=flat-square&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/ghazanfaruruj)
+
+![15s](https://img.shields.io/badge/15s-158_WPM-00FF9C?style=flat-square)
+![30s](https://img.shields.io/badge/30s-138_WPM-00FF9C?style=flat-square)
+![60s](https://img.shields.io/badge/60s-133_WPM-00FF9C?style=flat-square)
+![Burst](https://img.shields.io/badge/burst_10w-345_WPM-39FF14?style=flat-square)
+![Accuracy](https://img.shields.io/badge/accuracy-up_to_100%25-00FF9C?style=flat-square)
+![Global](https://img.shields.io/badge/global_rank-Top_3.88%25-39FF14?style=flat-square)
+![Tests](https://img.shields.io/badge/tests_completed-7%2C391-00FF9C?style=flat-square)
+
+<sub>Top ~4% worldwide · 20+ hours clocked · and yes, that 345 was casual, on a blue-switch board.</sub>
+
+</div>
 
 ---
 
@@ -41,6 +70,12 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 ---
 
 ## 🛠️ Tech I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,cpp,c,react,nextjs,nodejs,express,tailwind,threejs,postgres,prisma,supabase,docker,linux,git,arduino,raspberrypi&perline=10" />
+
+</div>
 
 **Languages**
 
@@ -82,7 +117,7 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Agents](https://img.shields.io/badge/LLM%20Agents-0e75b6?style=flat-square&logo=robotframework&logoColor=white)
+![Agents](https://img.shields.io/badge/LLM%20Agents-00C896?style=flat-square&logo=robotframework&logoColor=white)
 
 **Hardware & Embedded**
 
@@ -107,12 +142,12 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazzycodes&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazzycodes&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazzycodes&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazzycodes&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&theme=green)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gazzycodes&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gazzycodes&bg_color=0d1117&color=00ff9c&line=39ff14&point=ffffff&hide_border=true&area=true)
 
 </div>
 
@@ -126,6 +161,6 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 
 <sub>Built for transparency, sovereignty, and shipping things that matter.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,100:39FF14&height=120&section=footer" width="100%"/>
 
 </div>
