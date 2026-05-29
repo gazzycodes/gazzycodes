@@ -1,30 +1,32 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Gazzy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7F52FF&height=200&section=header&text=Gazzy&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=36&desc=Polymath%20%C2%B7%20Builder%20%C2%B7%20Hacker%20%C2%B7%20Musician&descSize=18&descAlignY=58" width="100%"/>
 
-### Polymath · Builder · Hacker · Musician
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Head+of+Technology+%40+iKonic+Global;Building+AI%2C+fintech+%26+health+systems;Biohacker+lab+%C2%B7+embedded+%C2%B7+microcontrollers;Triathlete-in-training+%C2%B7+execution+over+noise)](https://github.com/gazzycodes)
 
-*Technology lead @ iKonic Global. I build AI systems, health & physiology tools, and the occasional physics game — then take it all out on the road as a triathlete-in-training.*
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gazzycodes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gazzycodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=gazzycodes&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/gazzycodes)
+&nbsp;
+![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20Health%20%C2%B7%20Fintech-7F52FF?style=flat-square)
+&nbsp;
+![Status](https://img.shields.io/badge/Always-Shipping-38BDF8?style=flat-square)
 
 </div>
 
 ---
 
-## About
+## 🧬 About
 
 I'm a generalist who goes deep. My work moves between **agentic AI**, **fintech**, and **human-performance / health systems** — with hardware tinkering and music tech woven throughout. I care about systems that are transparent, sovereign, and genuinely useful, not black boxes.
 
 - **Role** — Head of Technology at **iKonic Global**, a music-tech company, where I own the full technology stack and direction.
 - **Focus** — AI-first software, accounting & finance automation, biohacking & physiology instrumentation.
-- **Off-screen** — Endurance training toward triathlon, building my own biohacker lab, and hardware tinkering.
+- **Hardware** — Microcontrollers, sensors, and BLE devices for my own biohacker lab.
+- **Off-screen** — Endurance training toward triathlon, building things, and tinkering with circuits.
 
 ---
 
-## Featured work
+## 🚀 Featured work
 
 ### 🫀 [URUJ Labs](https://github.com/gazzycodes/uruj-labs) · *public · ongoing*
 
@@ -32,28 +34,76 @@ A 24/7 biohacker physiology lab + cycling-training brain for Android (Kotlin · 
 
 ### 📊 [AiLegr](https://github.com/gazzycodes/ailegr) · *private*
 
-The core of my finance startup: AI-first accounting & bookkeeping software. A multi-tenant, production-grade platform with bulletproof tenant isolation, automated reporting, and a polished glass UI.
+The core of my finance startup: AI-first accounting & bookkeeping software. A multi-tenant, production-grade platform with bulletproof tenant isolation, automated reporting, Stripe & Plaid integrations, and a polished glass UI.
 
 <sub>Plenty more lives on my machine — agentic AI frameworks, an AI sales OS, terminal tooling, and physics-driven games. I'm multidisciplinary by default and most of these are works in progress.</sub>
 
 ---
 
-## Tech I work with
+## 🛠️ Tech I work with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=flat&logo=phaser&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=flat&logo=openai&logoColor=white)
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Backend, Data & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Plaid](https://img.shields.io/badge/Plaid-000000?style=flat-square&logo=plaid&logoColor=white)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Agents](https://img.shields.io/badge/LLM%20Agents-0e75b6?style=flat-square&logo=robotframework&logoColor=white)
+
+**Hardware & Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
-## GitHub stats
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -62,16 +112,22 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 
 ![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&theme=tokyonight)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gazzycodes&theme=tokyo-night&hide_border=true&area=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gazzycodes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+
 </div>
 
 ---
 
 <div align="center">
 
-### Let's connect
+### 📡 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghazanfar.uruj.cool@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ghazanfar.uruj.cool@gmail.com)
 
 <sub>Built for transparency, sovereignty, and shipping things that matter.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:0e75b6&height=120&section=footer" width="100%"/>
 
 </div>
