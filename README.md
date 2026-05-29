@@ -145,7 +145,7 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazzycodes&theme=github_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazzycodes&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&theme=green)
+![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=00FF9C&currStreakLabel=39FF14&sideNums=00FF9C&sideLabels=C9D1D9&dates=8B949E&stroke=39FF14)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gazzycodes&bg_color=0d1117&color=00ff9c&line=39ff14&point=ffffff&hide_border=true&area=true)
 
