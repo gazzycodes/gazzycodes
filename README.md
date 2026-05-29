@@ -114,8 +114,6 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gazzycodes&theme=tokyo-night&hide_border=true&area=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gazzycodes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
 </div>
 
 ---
