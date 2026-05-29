@@ -57,8 +57,8 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gazzycodes&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gazzycodes&layout=compact&hide_border=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazzycodes&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazzycodes&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=gazzycodes&hide_border=true&theme=tokyonight)
 
