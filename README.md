@@ -90,8 +90,10 @@ A zero-dependency CLI that keeps your .env.example in sync with the environment 
 A zero-dependency CLI that statically finds regular expressions vulnerable to **catastrophic backtracking (ReDoS)** — the innocent-looking `(a+)+` patterns that can freeze a service on a single crafted input. It parses each literal regex with Python's own parser, flags nested quantifiers and ambiguous alternation, and drops straight into CI or a pre-commit hook.
 
 [![PyPI](https://img.shields.io/pypi/v/redos.svg)](https://pypi.org/project/redos/)
+&nbsp;
 [![CI](https://github.com/gazzycodes/redos/actions/workflows/ci.yml/badge.svg)](https://github.com/gazzycodes/redos/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gazzycodes/redos/blob/main/LICENSE
+&nbsp;
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gazzycodes/redos/blob/main/LICENSE)
 
 <sub>Plenty more lives on my machine — agentic AI frameworks, an AI sales OS, terminal tooling, and physics-driven games. I'm multidisciplinary by default and most of these are works in progress.</sub>
 
