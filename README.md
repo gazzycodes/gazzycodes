@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFA3&height=200&section=header&text=Gazzy&fontColor=0d1117&fontSize=72&animation=fadeIn&fontAlignY=36&desc=Polymath%20%C2%B7%20Builder%20%C2%B7%20Hacker%20%C2%B7%20Musician&descSize=18&descAlignY=58" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Head+of+Technology+%40+iKonic+Global;Building+AI%2C+fintech+%26+health+systems;Biohacker+lab+%C2%B7+embedded+%C2%B7+microcontrollers;345+WPM+burst+%C2%B7+execution+over+noise)](https://github.com/gazzycodes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Head+of+Technology+%40+iKonic+Global;Building+AI%2C+fintech+%26+health+systems;Biohacker+lab+%C2%B7+embedded+%C2%B7+microcontrollers;345+WPM+burst+%C2%B7+execution+over+noise;Open-source+%C2%B7+pip+install+knot-imports)](https://github.com/gazzycodes)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gazzycodes&label=Profile%20views&color=00b894&style=flat-square)](https://github.com/gazzycodes)
 &nbsp;
@@ -64,6 +64,16 @@ A 24/7 biohacker physiology lab + cycling-training brain for Android (Kotlin · 
 ### 📊 [AiLegr](https://github.com/gazzycodes/ailegr) · *private*
 
 The core of my finance startup: AI-first accounting & bookkeeping software. A multi-tenant, production-grade platform with bulletproof tenant isolation, automated reporting, Stripe & Plaid integrations, and a polished glass UI.
+
+### 🪢 [knot](https://github.com/gazzycodes/knot) · *public · open source*
+
+A zero-dependency Python CLI that statically detects and visualizes **circular imports** — it parses your code with `ast` (never running it), finds cycles with an iterative Tarjan SCC pass, and prints the exact cycle path or a Mermaid graph. CI-friendly, MIT-licensed, and on PyPI.
+
+[![PyPI](https://img.shields.io/pypi/v/knot-imports?style=flat-square&color=00C853&label=PyPI)](https://pypi.org/project/knot-imports/)
+&nbsp;
+[![CI](https://img.shields.io/github/actions/workflow/status/gazzycodes/knot/ci.yml?style=flat-square&label=CI)](https://github.com/gazzycodes/knot/actions)
+&nbsp;
+![License](https://img.shields.io/badge/license-MIT-00FF9C?style=flat-square)
 
 <sub>Plenty more lives on my machine — agentic AI frameworks, an AI sales OS, terminal tooling, and physics-driven games. I'm multidisciplinary by default and most of these are works in progress.</sub>
 
@@ -158,6 +168,12 @@ The core of my finance startup: AI-first accounting & bookkeeping software. A mu
 ### 📡 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ghazanfar.uruj.cool@gmail.com)
+&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/g_uruj)
+&nbsp;
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ghazanfaruruj)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gazzycodes)
 
 <sub>Built for transparency, sovereignty, and shipping things that matter.</sub>
 
