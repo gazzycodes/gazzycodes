@@ -75,6 +75,16 @@ A zero-dependency Python CLI that statically detects and visualizes **circular i
 &nbsp;
 ![License](https://img.shields.io/badge/license-MIT-00FF9C?style=flat-square)
 
+### 🔑 [envcheck](https://github.com/gazzycodes/envcheck) · *public · open source*
+
+A zero-dependency CLI that keeps your .env.example in sync with the environment variables your code actually uses — a static AST scan that flags undocumented and stale variables. CI-friendly, MIT-licensed, and on PyPI.
+
+[![PyPI](https://img.shields.io/pypi/v/envcheck-sync?style=flat-square&color=00C853&label=PyPI)](https://pypi.org/project/envcheck-sync/)
+&nbsp;
+[![CI](https://img.shields.io/github/actions/workflow/status/gazzycodes/envcheck/ci.yml?style=flat-square&label=CI)](https://github.com/gazzycodes/envcheck/actions)
+&nbsp;
+![License](https://img.shields.io/badge/license-MIT-00FF9C?style=flat-square)
+
 <sub>Plenty more lives on my machine — agentic AI frameworks, an AI sales OS, terminal tooling, and physics-driven games. I'm multidisciplinary by default and most of these are works in progress.</sub>
 
 ---
