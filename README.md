@@ -65,6 +65,16 @@ A 24/7 biohacker physiology lab + cycling-training brain for Android (Kotlin · 
 
 The core of my finance startup: AI-first accounting & bookkeeping software. A multi-tenant, production-grade platform with bulletproof tenant isolation, automated reporting, Stripe & Plaid integrations, and a polished glass UI.
 
+### 🔦 [leakwatch](https://github.com/gazzycodes/leakwatch) · *public · open source*
+
+Point it at any website and watch — live, in your terminal — every tracker, data broker, fingerprinting trick, and session recorder watching you, rolled up to the companies they report to, with a security-headers grade on top. A **two-phase scan defeats the cookie-consent wall** (in any language) and measures the tracker surge that only fires *after* you accept; `batch` mode ranks a whole category into a shareable leaderboard and `diff` mode fails CI when a new third party sneaks onto your own site. Built with Python · Textual · Playwright.
+
+[![PyPI](https://img.shields.io/pypi/v/leakwatch.svg)](https://pypi.org/project/leakwatch/)
+&nbsp;
+[![CI](https://github.com/gazzycodes/leakwatch/actions/workflows/ci.yml/badge.svg)](https://github.com/gazzycodes/leakwatch/actions/workflows/ci.yml)
+&nbsp;
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gazzycodes/leakwatch/blob/main/LICENSE)
+
 ### 🪢 [knot](https://github.com/gazzycodes/knot) · *public · open source*
 
 A zero-dependency Python CLI that statically detects and visualizes **circular imports** — it parses your code with `ast` (never running it), finds cycles with an iterative Tarjan SCC pass, and prints the exact cycle path or a Mermaid graph. CI-friendly, MIT-licensed, and on PyPI.
